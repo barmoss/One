@@ -1,0 +1,42 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 May 2018 22:06:41 at http://www.one.co.il/Article/17-18/1,1,2,59050/313584.html?ref=hp +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.one.co.il/Article/17-18/1,1,2,59050/313584.html?ref=hp -O1 "C:\Users\Bar-PC\Desktop\Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:07:30	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from www.one.co.il/Article/17-18/1,1,2,59050/313584.html?ref=hp)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/he_IL/all.js)
+22:08:26	Warning: 	Found for www.one.co.il/Article/17-18/1,1,2,59050/^([^:/?
+22:08:26	Warning: 	File has moved from www.one.co.il/Article/17-18/1,1,2,59050/^([^:/? to /Cat/General/Error.aspx?aspxerrorpath=/article/17-18/1,1,2,59050/^([^:/
+22:08:26	Error: 	"Bad Request" (400) at link www.one.co.il/Article/17-18/1,1,2,59050/%s/profile.php?id=%s (from connect.facebook.net/he_IL/all.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/21_05_2018_06_1504.jpg (from www.one.co.il/Article/17-18/1,1,2,59050/313526.html)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/22_05_2018_06_0059.jpg (from www.one.co.il/Article/17-18/1,1,2,59050/313554.html)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/nanoWidget/ (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/popupDescription.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/statistics.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/whatis.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/userZapping.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/flyThrough.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/videoPlugin.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/video.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/positionCalculation.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/recInIframe.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/registration.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/refreshWidget.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/skyLander.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/topBox.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/swipeLayout.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/loadMore.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/inPlayerWidget.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/readMore.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/proxy.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/widgetWizard.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/smartFeed.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/userActions/userActions_$SUFFIX.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/scroll.js (from widgets.outbrain.com/outbrain.js)
+22:08:26	Error: 	"Not Found" (404) at link www.one.co.il/Article/17-18/1,1,2,59050/pager.js (from widgets.outbrain.com/outbrain.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 114 links scanned, 82 files written (3606568 bytes overall) [2480525 bytes received at 23624 bytes/sec], 1819989 bytes transferred using HTTP compression in 23 files, ratio 33%, 2.3 requests per connection
+(29 errors, 2 warnings, 0 messages)
